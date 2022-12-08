@@ -1,0 +1,20 @@
+[
+    {"id":1,"nombre":"Modelo A","precio":199,"img":"img/1.png","cantidad":1},
+    {"id":2,"nombre":"Modelo B","precio":249,"img":"img/2.png","cantidad":1},
+    {"id":3,"nombre":"Modelo C","precio":299,"img":"img/3.png","cantidad":1},
+    {"id":4,"nombre":"Modelo D","precio":349,"img":"img/4.png","cantidad":1},
+    {"id":5,"nombre":"Modelo E","precio":399,"img":"img/5.png","cantidad":1},
+    {"id":6,"nombre":"Modelo F","precio":449,"img":"img/6.png","cantidad":1},
+    {"id":7,"nombre":"Modelo G","precio":499,"img":"img/7.png","cantidad":1},
+    {"id":8,"nombre":"Modelo H","precio":549,"img":"img/8.png","cantidad":1},
+    {"id":9,"nombre":"Modelo XG","precio":599,"img":"img/9.png","cantidad":1},
+    {"id":10,"nombre":"Modelo XP","precio":649,"img":"img/10.png","cantidad":1},
+    {"id":11,"nombre":"Modelo X-10","precio":699,"img":"img/11.png","cantidad":1},
+    {"id":12,"nombre":"Modelo X-15","precio":749,"img":"img/12.png","cantidad":1},
+    {"id":13,"nombre":"Modelo XX","precio":799,"img":"img/13.png","cantidad":1},
+    {"id":14,"nombre":"Modelo Y","precio":849,"img":"img/14.png","cantidad":1},
+    {"id":15,"nombre":"Modelo Z","precio":899,"img":"img/15.png","cantidad":1},
+    {"id":16,"nombre":"Tech Pro","precio":999,"img":"img/16.png","cantidad":1},
+    {"id":17,"nombre":"T Premium","precio":1099,"img":"img/17.png","cantidad":1},
+    {"id":18,"nombre":"T Gaming","precio":1299,"img":"img/18.png","cantidad":1}
+]
